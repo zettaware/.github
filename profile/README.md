@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/105769130/170862223-7a4ab6d7-c0bf-417a-ac44-4d96e5449a5b.png)
-Greetings and welcome to Zetta! We always like to make useful things for people on the internet and we have been doing this since the **29th May, 2022** 🤯
+Greetings and welcome to Zetta! We always like to make useful things for people on the internet and we have been doing this since the **29th May, 2022** 🤯 Thats when we created this account.
 
 <!--START_SECTION:activity-->
 
