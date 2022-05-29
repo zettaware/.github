@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: zettaware/README-Activity@develop
+      - uses: zettaware/README-Activity@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
